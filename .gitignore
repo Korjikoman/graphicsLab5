@@ -1,0 +1,7 @@
+build/
+tmp/
+result.png
+result.jpg
+*.jpg
+*.docx
+*.pdf
